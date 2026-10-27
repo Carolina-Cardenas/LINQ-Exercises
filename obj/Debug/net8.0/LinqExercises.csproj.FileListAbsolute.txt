@@ -1,0 +1,14 @@
+/Users/Carolina/LEXICON/LINQ-Exercises/bin/Debug/net8.0/LinqExercises
+/Users/Carolina/LEXICON/LINQ-Exercises/bin/Debug/net8.0/LinqExercises.deps.json
+/Users/Carolina/LEXICON/LINQ-Exercises/bin/Debug/net8.0/LinqExercises.runtimeconfig.json
+/Users/Carolina/LEXICON/LINQ-Exercises/bin/Debug/net8.0/LinqExercises.dll
+/Users/Carolina/LEXICON/LINQ-Exercises/bin/Debug/net8.0/LinqExercises.pdb
+/Users/Carolina/LEXICON/LINQ-Exercises/obj/Debug/net8.0/LinqExercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Carolina/LEXICON/LINQ-Exercises/obj/Debug/net8.0/LinqExercises.AssemblyInfoInputs.cache
+/Users/Carolina/LEXICON/LINQ-Exercises/obj/Debug/net8.0/LinqExercises.AssemblyInfo.cs
+/Users/Carolina/LEXICON/LINQ-Exercises/obj/Debug/net8.0/LinqExercises.csproj.CoreCompileInputs.cache
+/Users/Carolina/LEXICON/LINQ-Exercises/obj/Debug/net8.0/LinqExercises.dll
+/Users/Carolina/LEXICON/LINQ-Exercises/obj/Debug/net8.0/refint/LinqExercises.dll
+/Users/Carolina/LEXICON/LINQ-Exercises/obj/Debug/net8.0/LinqExercises.pdb
+/Users/Carolina/LEXICON/LINQ-Exercises/obj/Debug/net8.0/LinqExercises.genruntimeconfig.cache
+/Users/Carolina/LEXICON/LINQ-Exercises/obj/Debug/net8.0/ref/LinqExercises.dll
